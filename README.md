@@ -11,4 +11,4 @@ Project consists of a simple html website without CSS or JS.
 4. Reinforcing learned concepts of a proper file structure
 
 ## Lisences for pictures
- - lasagna.jpg in lasagna.html is licenced under Creative-Commons Public Domain Dedication and belongs to [Rawpixel.com]](https://www.rawpixel.com/image/5959452/free-public-domain-cc0-photo)
+ - lasagna.jpg in lasagna.html is licenced under Creative-Commons Public Domain Dedication and belongs to [Rawpixel.com](https://www.rawpixel.com/image/5959452/free-public-domain-cc0-photo)
